@@ -1,24 +1,24 @@
-2023-09-03 22:20:45,535.user_math_chakhongchan.INFO ==================================================
-2023-09-03 22:20:45,535.user_math_chakhongchan.INFO Today is 2023-09-03 at 10:20 PM
-2023-09-03 22:20:45,536.user_math_chakhongchan.INFO Running on: posix Darwin 21.6.0
-2023-09-03 22:20:45,539.user_math_chakhongchan.INFO Python version:  3.11.4
-2023-09-03 22:20:45,540.user_math_chakhongchan.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
-2023-09-03 22:20:45,540.user_math_chakhongchan.INFO Working dir: /Users/cch/Downloads/datafun-02-functions-main
-2023-09-03 22:20:45,551.user_math_chakhongchan.INFO ==================================================
-2023-09-03 22:20:45,551.user_math_chakhongchan.INFO CALLING get_area_of_triangle((10, 10))
-2023-09-03 22:20:45,551.user_math_chakhongchan.INFO The area of triangle is 50.0
-2023-09-03 22:20:45,551.user_math_chakhongchan.INFO CALLING get_area_of_triangle((249, 183))
-2023-09-03 22:20:45,552.user_math_chakhongchan.INFO The area of triangle is 22783.5
-2023-09-03 22:20:45,552.user_math_chakhongchan.INFO CALLING get_area_of_triangle((3, 6))
-2023-09-03 22:20:45,552.user_math_chakhongchan.INFO The area of triangle is 9.0
-2023-09-03 22:20:45,553.user_math_chakhongchan.INFO CALLING get_area_of_triangle((41, 82))
-2023-09-03 22:20:45,553.user_math_chakhongchan.INFO The area of triangle is 1681.0
-2023-09-03 22:20:45,554.user_math_chakhongchan.INFO pizza = 50.00
-2023-09-03 22:20:45,554.user_math_chakhongchan.INFO roof = 22783.50
-2023-09-03 22:20:45,554.user_math_chakhongchan.INFO sandwich = 9.00
-2023-09-03 22:20:45,554.user_math_chakhongchan.INFO traffic_sign  = 1681.00
-2023-09-03 22:20:45,555.user_math_chakhongchan.INFO Explore some funtions in the Math module
-2023-09-03 22:20:45,555.user_math_chakhongchan.INFO math.comb(9,74) = 0
-2023-09-03 22:20:45,556.user_math_chakhongchan.INFO math.ceil(129 * 46) = 5704
-2023-09-03 22:20:45,556.user_math_chakhongchan.INFO math.floor(758 * 91) = 68978
-2023-09-03 22:20:45,556.user_math_chakhongchan.INFO THIS IS TEST!
+2023-09-03 22:29:12,510.user_math_chakhongchan.INFO ==================================================
+2023-09-03 22:29:12,510.user_math_chakhongchan.INFO Today is 2023-09-03 at 10:29 PM
+2023-09-03 22:29:12,510.user_math_chakhongchan.INFO Running on: posix Darwin 21.6.0
+2023-09-03 22:29:12,510.user_math_chakhongchan.INFO Python version:  3.9.6
+2023-09-03 22:29:12,510.user_math_chakhongchan.INFO Python path: /Users/cch/Downloads/datafun-02-functions-main/.venv
+2023-09-03 22:29:12,511.user_math_chakhongchan.INFO Working dir: /Users/cch/Downloads/datafun-02-functions-main
+2023-09-03 22:29:12,511.user_math_chakhongchan.INFO ==================================================
+2023-09-03 22:29:12,511.user_math_chakhongchan.INFO CALLING get_area_of_triangle((10, 10))
+2023-09-03 22:29:12,511.user_math_chakhongchan.INFO The area of triangle is 50.0
+2023-09-03 22:29:12,511.user_math_chakhongchan.INFO CALLING get_area_of_triangle((249, 183))
+2023-09-03 22:29:12,511.user_math_chakhongchan.INFO The area of triangle is 22783.5
+2023-09-03 22:29:12,512.user_math_chakhongchan.INFO CALLING get_area_of_triangle((3, 6))
+2023-09-03 22:29:12,512.user_math_chakhongchan.INFO The area of triangle is 9.0
+2023-09-03 22:29:12,512.user_math_chakhongchan.INFO CALLING get_area_of_triangle((41, 82))
+2023-09-03 22:29:12,512.user_math_chakhongchan.INFO The area of triangle is 1681.0
+2023-09-03 22:29:12,512.user_math_chakhongchan.INFO pizza = 50.00
+2023-09-03 22:29:12,512.user_math_chakhongchan.INFO roof = 22783.50
+2023-09-03 22:29:12,512.user_math_chakhongchan.INFO sandwich = 9.00
+2023-09-03 22:29:12,513.user_math_chakhongchan.INFO traffic_sign  = 1681.00
+2023-09-03 22:29:12,513.user_math_chakhongchan.INFO Explore some funtions in the Math module
+2023-09-03 22:29:12,513.user_math_chakhongchan.INFO math.comb(9,74) = 0
+2023-09-03 22:29:12,513.user_math_chakhongchan.INFO math.ceil(129 * 46) = 5704
+2023-09-03 22:29:12,513.user_math_chakhongchan.INFO math.floor(758 * 91) = 68978
+2023-09-03 22:29:12,513.user_math_chakhongchan.INFO THIS IS TEST!

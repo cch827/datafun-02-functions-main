@@ -20,7 +20,7 @@ def get_area_of_triangle(height, base):
     logger.info(f"CALLING get_area_of_triangle({height, base})")
     
     try: 
-        area = (base * height) * 1/2
+        area = (base * height) * (1/2)
         logger.info(f"The area of triangle is {area}")
         return area 
     except Exception as ex:
