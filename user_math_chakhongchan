@@ -1,0 +1,46 @@
+"""
+Author: Steven Chan
+Date: 9/3/2023
+
+Purpose: Calculate the area of different sports fields/courts.
+Compare the sports fields/courts to see the difference, sum, and max areas. 
+Illustrate the math module and how to write defensive functions by trying them.
+
+"""
+
+import math
+
+from util_logger import setup_logger
+logger, logname = setup_logger(__file__)
+
+def get_area_of_triangle(height, base): 
+
+    #Return the area of a triangle given the height and base
+
+    logger.info(f"CALLING get_area_of_triangle({height, base})")
+    
+    try: 
+        area = (base * height) / 2
+        logger.info(f"The area of triangle is {area}")
+        return area 
+    except Exception as ex:
+        logger.error(f"Error: {ex}")
+        return None
+
+#Calling get_area_of_triangle with several different bases and heights
+pizza = get_area_of_triangle(10,10)  #Area of Pizza
+roof = get_area_of_triangle(249,183)  #Area of Roof
+sandwich = get_area_of_triangle(3, 6)  #Area of Sandwich
+traffic_sign = get_area_of_triangle(41,82)     #Area of Traffic_Sign
+
+logger.info(f"pizza = {pizza:.2f}")
+logger.info(f"roof = {roof:.2f}")
+logger.info(f"sandwich = {sandwich:.2f}")
+logger.info(f"traffic_sign  = {traffic_sign:.2f}")
+
+#At the end of the file add code from defensive math
+logger.info("Explore some funtions in the Math module")
+logger.info(f"math.comb(9,74) = {math.comb(9,74)}")
+logger.info(f"math.ceil(129 * 46) = {math.ceil(124 * 46)}")
+logger.info(f"math.floor(758 * 91) = {math.floor(758 * 91)}")
+logger.info(f"THIS IS TEST!")

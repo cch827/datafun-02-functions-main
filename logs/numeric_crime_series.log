@@ -1,0 +1,28 @@
+2023-09-03 15:31:29,032.numeric_crime_series.INFO ==================================================
+2023-09-03 15:31:29,033.numeric_crime_series.INFO Today is 2023-09-03 at 03:31 PM
+2023-09-03 15:31:29,034.numeric_crime_series.INFO Running on: nt Windows 10
+2023-09-03 15:31:29,034.numeric_crime_series.INFO Python version:  3.11.5
+2023-09-03 15:31:29,035.numeric_crime_series.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0
+2023-09-03 15:31:29,036.numeric_crime_series.INFO Working dir: C:\Users\user\Documents\datafun-02-functions
+2023-09-03 15:31:29,036.numeric_crime_series.INFO ==================================================
+2023-09-03 15:31:29,037.numeric_crime_series.INFO Created: NumericCrimeSeries with name=2015 to 2020 Crime, units=Murder, location=New York, and 5 data points: [545, 407, 495, 215, 521]
+2023-09-03 15:31:29,038.numeric_crime_series.INFO Created: NumericCrimeSeries with name=2015 to 2020 Crime, units=Robbery, location=New York, and 6 data points: [186, 225, 212, 196, 192, 189]
+2023-09-03 15:31:29,038.numeric_crime_series.INFO Created: NumericCrimeSeries with name=2015 to 2020 Crime, units=Felony Assault, location=New York, and 6 data points: [129, 125, 226, 156, 197, 86]
+2023-09-03 15:31:29,039.numeric_crime_series.INFO NumericCrimeSeries with name=2015 to 2020 Crime, units=Murder, location=New York, and 5 data points: [545, 407, 495, 215, 521]
+2023-09-03 15:31:29,040.numeric_crime_series.INFO Count: 5
+2023-09-03 15:31:29,040.numeric_crime_series.INFO Sum: 2183
+2023-09-03 15:31:29,041.numeric_crime_series.INFO Mean: 436.6
+2023-09-03 15:31:29,041.numeric_crime_series.INFO Median: 495
+2023-09-03 15:31:29,041.numeric_crime_series.INFO ------------------
+2023-09-03 15:31:29,042.numeric_crime_series.INFO NumericCrimeSeries with name=2015 to 2020 Crime, units=Robbery, location=New York, and 6 data points: [186, 225, 212, 196, 192, 189]
+2023-09-03 15:31:29,042.numeric_crime_series.INFO Count: 6
+2023-09-03 15:31:29,043.numeric_crime_series.INFO Sum: 1200
+2023-09-03 15:31:29,043.numeric_crime_series.INFO Mean: 200.0
+2023-09-03 15:31:29,044.numeric_crime_series.INFO Median: 194.0
+2023-09-03 15:31:29,044.numeric_crime_series.INFO ------------------
+2023-09-03 15:31:29,044.numeric_crime_series.INFO NumericCrimeSeries with name=2015 to 2020 Crime, units=Felony Assault, location=New York, and 6 data points: [129, 125, 226, 156, 197, 86]
+2023-09-03 15:31:29,045.numeric_crime_series.INFO Count: 6
+2023-09-03 15:31:29,045.numeric_crime_series.INFO Sum: 919
+2023-09-03 15:31:29,046.numeric_crime_series.INFO Mean: 153.16666666666666
+2023-09-03 15:31:29,047.numeric_crime_series.INFO Median: 142.5
+2023-09-03 15:31:29,048.numeric_crime_series.INFO ------------------

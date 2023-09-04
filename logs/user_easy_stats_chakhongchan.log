@@ -1,0 +1,33 @@
+2023-09-03 16:59:13,543.user_easy_stats_chakhongchan.INFO ==================================================
+2023-09-03 16:59:13,544.user_easy_stats_chakhongchan.INFO Today is 2023-09-03 at 04:59 PM
+2023-09-03 16:59:13,580.user_easy_stats_chakhongchan.INFO Running on: nt Windows 10
+2023-09-03 16:59:13,580.user_easy_stats_chakhongchan.INFO Python version:  3.11.5
+2023-09-03 16:59:13,581.user_easy_stats_chakhongchan.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0
+2023-09-03 16:59:13,581.user_easy_stats_chakhongchan.INFO Working dir: C:\Users\user\Documents\datafun-02-functions
+2023-09-03 16:59:13,582.user_easy_stats_chakhongchan.INFO ==================================================
+2023-09-03 16:59:13,595.user_easy_stats_chakhongchan.INFO uni_data = [5224, 2156, 3312, 2712, 4450, 6620, 5445, 2895, 3350, 2935]
+2023-09-03 16:59:13,599.user_easy_stats_chakhongchan.INFO mean   = 3909.90
+2023-09-03 16:59:13,600.user_easy_stats_chakhongchan.INFO median = 3331.00
+2023-09-03 16:59:13,601.user_easy_stats_chakhongchan.INFO mode   = 5224.00
+2023-09-03 16:59:13,601.user_easy_stats_chakhongchan.INFO var    = 2098032.77
+2023-09-03 16:59:13,602.user_easy_stats_chakhongchan.INFO stdev  = 1448.46
+2023-09-03 16:59:13,603.user_easy_stats_chakhongchan.INFO lowest = 2156.00
+2023-09-03 16:59:13,603.user_easy_stats_chakhongchan.INFO highest= 6620.00
+2023-09-03 16:59:13,603.user_easy_stats_chakhongchan.INFO range= 4464.00
+2023-09-03 16:59:13,605.user_easy_stats_chakhongchan.WARNING Correlation requires Python version 3.10 or greater.
+2023-09-03 16:59:13,606.user_easy_stats_chakhongchan.WARNING Your version is 3.11
+2023-09-03 16:59:13,606.user_easy_stats_chakhongchan.INFO Here's some time series data:
+2023-09-03 16:59:13,608.user_easy_stats_chakhongchan.INFO xtimes:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2023-09-03 16:59:13,608.user_easy_stats_chakhongchan.INFO yvalues:[5224, 2156, 3312, 2712, 4450, 6620, 5445, 2895, 3350, 2935]
+2023-09-03 16:59:13,609.user_easy_stats_chakhongchan.INFO correlation between xtimes and xtimes = 1.00
+2023-09-03 16:59:13,609.user_easy_stats_chakhongchan.INFO correlation between xtimes and yvalues = -0.05
+2023-09-03 16:59:13,610.user_easy_stats_chakhongchan.INFO Here's some bivariant data (2 variables, together):
+2023-09-03 16:59:13,610.user_easy_stats_chakhongchan.INFO x:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2023-09-03 16:59:13,611.user_easy_stats_chakhongchan.INFO y:[5224, 2156, 3312, 2712, 4450, 6620, 5445, 2895, 3350, 2935]
+2023-09-03 16:59:13,611.user_easy_stats_chakhongchan.INFO Calculate the slope and intercept of a best fit straight line:
+2023-09-03 16:59:13,612.user_easy_stats_chakhongchan.INFO    slope = -23.99
+2023-09-03 16:59:13,612.user_easy_stats_chakhongchan.INFO    intercept = 4041.87
+2023-09-03 16:59:13,612.user_easy_stats_chakhongchan.INFO Let's use our best fit line to PREDICT a future value.
+2023-09-03 16:59:13,613.user_easy_stats_chakhongchan.INFO    At future x = 200,
+2023-09-03 16:59:13,613.user_easy_stats_chakhongchan.INFO    we predict the value of y will be -757.
+2023-09-03 16:59:13,614.user_easy_stats_chakhongchan.INFO How'd we do? Does this make sense given the data?
